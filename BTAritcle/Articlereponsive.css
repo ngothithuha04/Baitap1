@@ -1,0 +1,269 @@
+@media (max-width: 992px) {
+    .row-335 {
+        width: 100%;
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: center;
+        margin-left: auto;
+        margin-right: auto;
+        max-width: 335px;
+    }
+
+    .col-full {
+        width: 100%;
+        margin-left: auto;
+        margin-right: auto;
+    }
+
+    .col-335 {
+        width: 335px;
+        margin-left: auto;
+        margin-right: auto;
+    }
+
+    .hidden-mobile {
+        display: block;
+    }
+
+    .hidden-desktop {
+        display: none;
+    }
+
+    .content-line {
+        margin-top: 58px;
+    }
+
+    .header {
+        padding: 0 20px;
+        height: 65px;
+    }
+
+    .menu-btn {
+        display: block;
+        width: 24px;
+        height: 14px;
+        padding-top: 27px;
+    }
+
+    .name-page {
+        padding-top: 24px;
+    }
+
+    .name-page-header {
+        height: 20px;
+        width: 217px;
+    }
+
+    .navbar {
+        display: none;
+    }
+
+    .content-intro {
+        width: 335px;
+        margin-top: 52px;
+        text-align: center;
+    }
+
+    .content-intro-title {
+        width: 340px;
+        font-size: 3.6rem;
+        line-height: 4.296rem;
+    }
+
+    .content-intro-sub-title {
+        font-size: 1.6rem;
+        line-height: 2.72rem;
+        width: 335px;
+        padding: 24px 0 36px;
+    }
+
+    .blog-info {
+        margin-top: 24px;
+        flex-wrap: wrap;
+    }
+
+    .blog-info-detail {
+        font-size: 1.3rem;
+        line-height: 1.551rem;
+    }
+
+    .blog-info-social {
+        margin-left: 0;
+        width: 335px;
+        height: 54px;
+        margin-top: 24px;
+    }
+
+    .blog-info-social::before {
+        content: "";
+        height: 54px;
+        right: 33.33334%;
+    }
+
+    .blog-info-social::after {
+        content: "";
+        display: block;
+        width: 1px;
+        height: 54px;
+        background-color: #EAEAEA;
+        position: absolute;
+        right: 66.66667%;
+    }
+
+    }
+    .blog-content {
+        font-size: 1.6rem;
+        line-height: 2.72rem;
+    }
+
+    .blog-heading {
+        font-size: 2.6rem;
+        line-height: 3.103rem;
+        padding: 42px 0 19px;
+    }
+
+    .padding-top-42 {
+        padding-top: 42px;
+    }
+
+    .blog-image-title {
+        width: 100%;
+        max-width: 335px;
+        font-size: 1.3rem;
+        line-height: 1.82rem;
+    }
+
+    .blog-tags:nth-child(1) {
+        border: none;
+        padding: 42px 0px 9px;
+    }
+
+    .blog-tags {
+        padding: 24px 0px 25px;
+    }
+
+    .blog-info-social:nth-child(2) {
+        display: flex;
+        margin: 0;
+    }
+
+    .author-intro {
+        font-size: 1.4rem;
+        line-height: 2.24rem;
+        width: 260px;
+    }
+
+    .author-sub-desc {
+        font-size: 1.4rem;
+        line-height: 2.24rem;
+    }
+
+    .blog-author-intro {
+        padding: 24px 0px 81px;
+    }
+
+    .blog-eye-icon {
+        width: 65.6px;
+        height: 52px;
+    }
+
+    .content-article-title {
+        font-size: 3.2rem;
+        line-height: 3.819rem;
+        padding: 29px 0px;
+    }
+
+    .content-article-img {
+        width: 335px;
+        height: 194px;
+        margin-left: auto;
+        margin-right: auto;
+        display: block;
+    }
+
+    .content-signup {
+        width: 100%;
+        height: 305px;
+        border: none;
+    }
+
+    .signup-heading {
+        width: 249px;
+        font-size: 2.9rem;
+        padding: 42px 0px 14px;
+        text-align: center;
+        margin-left: auto;
+        margin-right: auto;
+    }
+
+    .signup-desc {
+        width: 280px;
+        font-size: 1.6rem;
+        line-height: 2.24rem;
+    }
+
+    .signup-field {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        width: 311px;
+        height: 54px;
+        margin-left: auto;
+        margin-right: auto;
+    }
+
+    .signup-input {
+        width: 203px;
+    }
+
+    .signup-input,
+    .signup-input::placeholder {
+        font-size: 1.6rem;
+        line-height: 1.909rem;
+    }
+
+    .signup-submit {
+        font-size: 1.6rem;
+        line-height: 54px;
+        width: 108px;
+        height: 54px;
+    }
+
+    .signup-field {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+
+    .footer {
+        margin-top: 52px;
+    }
+
+    .footer-feature-list {
+        font-size: 2.71rem;
+        line-height: 2.8rem;
+        justify-content: center;
+        padding: 22px 0 0 0;
+    }
+
+    .name-page-footer {
+        width: 236.37px;
+        height: 22.18px;
+    }
+
+    .footer-name-page {
+        padding-top: 103.41px;
+        padding-bottom: 25.41px;
+    }
+
+    .footer-desc {
+        width: 287px;
+        font-size: 1.3rem;
+        line-height: 1.82rem;
+    }
+
+    .footer-contact-link {
+        font-size: 1.3rem;
+        line-height: 2.21px;
+    }
+}
